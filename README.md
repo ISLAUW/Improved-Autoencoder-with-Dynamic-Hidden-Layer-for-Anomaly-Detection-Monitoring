@@ -1,0 +1,1 @@
+# Improved-Autoencoder-with-Dynamic-Hidden-Layer-for-Anomaly-Detection-Monitoring
